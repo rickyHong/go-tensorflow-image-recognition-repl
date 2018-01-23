@@ -29,3 +29,4 @@ $ curl localhost:8080/recognize -F 'image=@./cat.jpg'
   ]
 }
 ```
+... https://blog.kesuskim.com/2017/11/make-image-recognition-api-using-go-tensorflow/
